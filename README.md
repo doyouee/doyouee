@@ -3,9 +3,11 @@
 </div>
 
 <div align=center>
-  <h3>✨ Introduction ✨</h3> 
-  👀 my <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> is<br>
-	 <a href="https://www.notion.so/Doyouee-0af87cb524134b24b488e184e2be213c"><h3>doyouee Notion!</h3> </a>
+	<h3>✨ Introduction ✨</h3> 
+ 	👀 click -> my 
+	<a href="https://www.notion.so/Doyouee-0af87cb524134b24b488e184e2be213c">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+	</a>
 </div>
 <br>
 <br>
@@ -14,11 +16,11 @@
   <p>🍈 Platforms & Language 🍈</p>
 </div>
 <div align=center>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+  	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><br>
+  	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 </div>
 <br>
 <br>
@@ -29,11 +31,12 @@
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
-  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
+<br>
+<br>
 <div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyouee&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=doyouee&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyouee&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=doyouee&show_icons=true">
 </div>
