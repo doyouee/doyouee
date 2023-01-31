@@ -38,8 +38,7 @@
 <br>
 <br>
 <div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
-	<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyouee&layout=compact">
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyouee&layout=compact)](https://github.com/doyouee/github-readme-stats)
