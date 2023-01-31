@@ -1,10 +1,9 @@
-### Hi there 👋
 
 <!--
 **doyouee/doyouee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFE5F5,100:FFF7DC&fontColor=ECFFE2&height=300&section=header&text=doyouee%20Github!&fontSize=90&animation=blink" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFE5F5,100:FFF7DC&fontColor=E6FFDA&height=250&section=header&text=doyouee%20Github!&fontSize=85&animation=blink" />
 
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
