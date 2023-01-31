@@ -35,6 +35,11 @@
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
-
+<br>
+<br>
+<div align=center>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
+	<img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyouee&layout=compact)](https://github.com/doyouee/github-readme-stats)
