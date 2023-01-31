@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFE5F5,100:FFF7DC&fontColor=CDFFD4&height=205&section=header&text=doyouee%20Github!&fontSize=85&animation=blink" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FFE5F5,100:FFF7DC&fontColor=CDFFD4&height=205&section=header&text=doyouee%20Github!&fontSize=85&animation=blink&rotate=-20" />
 
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
