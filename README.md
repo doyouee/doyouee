@@ -4,8 +4,8 @@
 
 <div align=center>
   <h3>✨ Introduction ✨</h3> 
-  👀 my notion is
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+  👀 my <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> is<br>
+	 <a href="https://www.notion.so/Doyouee-0af87cb524134b24b488e184e2be213c" > <h3>:muscle: Problem Solving </h3> </a>
 </div>
 <br>
 <br>
@@ -35,10 +35,3 @@
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 </div>
-<br>
-<br>
-<div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doyouee&layout=compact">
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyouee&layout=compact)](https://github.com/doyouee/github-readme-stats)
