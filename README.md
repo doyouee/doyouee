@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align=center>
+  
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFE5F5,100:FFF7DC&fontColor=A4F7E1&height=205&section=header&text=doyouee%20Github!&fontSize=85&animation=blink" />
 
 
+🍈 Platforms & Language 🍈
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
@@ -28,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 
-
+</div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doyouee&layout=compact)](https://github.com/doyouee/github-readme-stats)
