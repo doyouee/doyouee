@@ -1,24 +1,13 @@
-
-<!--
-**doyouee/doyouee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-### Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align=center>
-  
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFE5F5,100:FFF7DC&fontColor=A4F7E1&height=205&section=header&text=doyouee%20Github!&fontSize=85&animation=blink" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFE5F5,100:FFF7DC&fontColor=A4F7E1&height=205&section=header&text=doyouee%20Github!&fontSize=85&animation=blink" />
+</div>
 
+<div align=center>
+  <h3>✨ Introduction ✨</h3> 
+</div>
 
-🍈 Platforms & Language 🍈
+<div align=center>
+  <p>🍈 Platforms & Language 🍈</p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
