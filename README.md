@@ -39,6 +39,7 @@
 	<p> 🍋 Tools 🍋<p>
 </div>
 <div align=center>
+	<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/DBeaver-885630?style=flat&logo=DBeaver&logoColor=white"/>
