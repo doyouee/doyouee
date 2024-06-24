@@ -7,7 +7,7 @@
 <div align=center>
 	<p> 🍦 Introduction 🍦</p> 
  	👀&nbsp; Click!&nbsp;&nbsp;→ &nbsp;&nbsp;   
-	<a href="https://doyouee.notion.site/0af87cb524134b24b488e184e2be213c">
+	<a href="https://doyee.notion.site/0af87cb524134b24b488e184e2be213c">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 	</a>
 </div>
